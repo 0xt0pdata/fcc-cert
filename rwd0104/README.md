@@ -1,7 +1,4 @@
-## freeCodeCamp | Certification
-## Responsive Web Design
-
-### 01-04 Learn HTML Forms by Building a Registration Form
+# 01-04 Learn HTML Forms by Building a Registration Form
 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/
 

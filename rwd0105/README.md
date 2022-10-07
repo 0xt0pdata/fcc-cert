@@ -1,56 +1,34 @@
-# freeCodeCamp | Certification
-## Responsive Web Design
-
-### 01-05 Survey Form
-
-https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form
+# 01-05 Survey Form
+https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form/
 
 Required project to earn certification.
 
 For this project, you will build a survey form to collect data from your users.
 
-Objective: Build an app that is functionally similar to 
-https://survey-form.freecodecamp.rocks
+## Objective
+Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
-### User Stories:
-
-You should have a page title in an h1 element with an id of title.
-
-You should have a short explanation in a p element with an id of description.
-
-You should have a form element with an id of survey-form.
-
-Inside the form element, you are required to enter your name in an input field that has an id of name and a type of text.
-
-Inside the form element, you are required to enter your email in an input field that has an id of email.
-
-If you enter an email that is not formatted correctly, you will see an HTML5 validation error.
-
-Inside the form, you can enter a number in an input field that has an id of number.
-
-If you enter non-numbers in the number input, you will see an HTML5 validation error.
-
-If you enter numbers outside the range of the number input, which are defined by the min and max attributes, you will see an HTML5 validation error.
-
-For the name, email, and number input fields, you can see corresponding label elements in the form, that describe the purpose of each field with the following ids: id="name-label", id="email-label", and id="number-label".
-
-For the name, email, and number input fields, you can see placeholder text that gives a description or instructions for each field.
-
-Inside the form element, you should have a select dropdown element with an id of dropdown and at least two options to choose from.
-
-Inside the form element, you can select an option from a group of at least two radio buttons that are grouped using the name attribute.
-
-Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute.
-
-Inside the form element, you are presented with a textarea for additional comments.
-
-Inside the form element, you are presented with a button with id of submit to submit all the inputs.
+## User Stories
+1. You should have a page title in an h1 element with an id of title.
+1. You should have a short explanation in a p element with an id of description.
+1. You should have a form element with an id of survey-form.
+1. Inside the form element, you are required to enter your name in an input field that has an id of name and a type of text.
+1. Inside the form element, you are required to enter your email in an input field that has an id of email.
+1. If you enter an email that is not formatted correctly, you will see an HTML5 validation error.
+1. Inside the form, you can enter a number in an input field that has an id of number.
+1. If you enter non-numbers in the number input, you will see an HTML5 validation error.
+1. If you enter numbers outside the range of the number input, which are defined by the min and max attributes, you will see an HTML5 validation error.
+1. For the name, email, and number input fields, you can see corresponding label elements in the form, that describe the purpose of each field with the following ids: id="name-label", id="email-label", and id="number-label".
+1. For the name, email, and number input fields, you can see placeholder text that gives a description or instructions for each field.
+1. Inside the form element, you should have a select dropdown element with an id of dropdown and at least two options to choose from.
+1. Inside the form element, you can select an option from a group of at least two radio buttons that are grouped using the name attribute.
+1. Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute.
+1. Inside the form element, you are presented with a textarea for additional comments.
+1. Inside the form element, you are presented with a button with id of submit to submit all the inputs.
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS.
-
-### Tests:
+## Tests:
 - You should have an h1 element with an id of title.
 - Your #title should not be empty.
 - You should have a p element with an id of description.
@@ -96,7 +74,7 @@ Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to l
 - Your #submit should have a type of submit.
 - Your #submit should be a descendant of #survey-form.
 
-Assets:
+### Assets:
 - https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap
 - https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg
 
