@@ -1,6 +1,4 @@
-# 03-04 Technical Documentation Page
-
-This is one of the required projects to earn your certification.
+# 03-04 [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page)
 
 For this project, you will build a technical documentation page to serve as instruction or reference for a topic.
 
@@ -23,7 +21,12 @@ Build an app that is functionally similar to https://tribute-page.freecodecamp.r
 1. When you click on a navbar element, the page should navigate to the corresponding section of the #main-doc element (e.g. If you click on a .nav-link element that contains the text "Hello world", the page navigates to a section element with that id, and contains the corresponding header).
 1. On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user.
 1. Your technical documentation should use at least one media query.
-1. Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+
+Fulfill the user stories and pass all the tests below to complete this project.
+
+Give it your own personal style.
+
+Happy Coding!
 
 ## Tests
 - You should have a main element with an id of main-doc.
@@ -49,4 +52,4 @@ Build an app that is functionally similar to https://tribute-page.freecodecamp.r
 - Your #navbar should always be on the left edge of the window.
 - Your Technical Documentation project should use at least one media query.
 
-My codepen: https://codepen.io/0xt0pdata/pen/ExEzwaj
+[My codepen](https://codepen.io/0xt0pdata/pen/ExEzwaj)

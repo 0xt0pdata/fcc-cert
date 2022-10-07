@@ -1,7 +1,4 @@
-# 01-05 Survey Form
-https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form/
-
-Required project to earn certification.
+# 01-05 [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form/)
 
 For this project, you will build a survey form to collect data from your users.
 
@@ -26,7 +23,11 @@ Build an app that is functionally similar to https://survey-form.freecodecamp.ro
 1. Inside the form element, you are presented with a textarea for additional comments.
 1. Inside the form element, you are presented with a button with id of submit to submit all the inputs.
 
-Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+Fulfill the user stories and pass all the tests below to complete this project.
+
+Give it your own personal style.
+
+Happy Coding!
 
 ## Tests:
 - You should have an h1 element with an id of title.
@@ -78,5 +79,5 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 - https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap
 - https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg
 
-My codepen: https://codepen.io/0xt0pdata/pen/abYPRVj
+[My codepen](https://codepen.io/0xt0pdata/pen/abYPRVj)
 

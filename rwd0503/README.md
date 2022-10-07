@@ -1,13 +1,9 @@
-# 05-03 Personal Portfolio Webpage
-https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page
-
-This is one of the required projects to earn your certification.
+# 05-03 [Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
 
 For this project, you will build your own personal portfolio page.
 
 ## Objective
-Build an app that is functionally similar to
-https://personal-portfolio.freecodecamp.rocks
+Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks
 
 ## User Stories
 
@@ -25,7 +21,7 @@ https://personal-portfolio.freecodecamp.rocks
 
 Fulfill the user stories and pass all the tests below to complete this project.
 
-Give it your own personal style. 
+Give it your own personal style.
 
 Happy Coding!
 
@@ -43,6 +39,4 @@ Happy Coding!
 - Your portfolio should use at least one media query.
 - Your #navbar element should always be at the top of the viewport.
 
-
-
-My codepen: https://codepen.io/0xt0pdata/pen/yLKdbmy
+[My codepen](https://codepen.io/0xt0pdata/pen/yLKdbmy)

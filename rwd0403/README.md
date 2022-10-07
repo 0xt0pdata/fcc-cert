@@ -1,13 +1,9 @@
-# 04-03 Product Landing Page
-https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page
-
-This is one of the required projects to earn your certification.
+# 04-03 [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page)
 
 For this project, you will build a product landing page to market a product of your choice.
 
 ## Objective
-Build an app that is functionally similar to
-https://product-landing-page.freecodecamp.rocks
+Build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
 
 ## User Stories
 1. Your product landing page should have a header element with a corresponding id="header".
@@ -26,7 +22,11 @@ https://product-landing-page.freecodecamp.rocks
 1. Your product landing page should have at least one media query.
 1. Your product landing page should utilize CSS flexbox at least once.
 
-Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+Fulfill the user stories and pass all the tests below to complete this project.
+
+Give it your own personal style.
+
+Happy Coding!
 
 ## Tests
 - You should have a header element with an id of header.
@@ -55,4 +55,4 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 - Your Product Landing Page should use at least one media query.
 - Your Product Landing Page should use CSS Flexbox at least once.
 
-My codepen: https://codepen.io/0xt0pdata/pen/gOeNWdz
+[My codepen](https://codepen.io/0xt0pdata/pen/gOeNWdz)

@@ -1,6 +1,4 @@
-# 02-05 Build a Tribute Page
-
-This is one of the required projects to earn your certification.
+# 02-05 [Build a Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
 
 For this project, you will build a tribute page for a subject of your choosing, fictional or real.
 
@@ -18,7 +16,11 @@ Build an app that is functionally similar to https://tribute-page.freecodecamp.r
 1. Your #image should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size.
 1. Your img element should be centered within its parent element.
 
-Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+Fulfill the user stories and pass all the tests below to complete this project.
+
+Give it your own personal style.
+
+Happy Coding!
 
 ## Tests
 - You should have a main element with an id of main.
@@ -44,4 +46,4 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 ### Assets
 - https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg
 
-My codepen: https://codepen.io/0xt0pdata/pen/QWmYodq
+[My codepen](https://codepen.io/0xt0pdata/pen/QWmYodq)
