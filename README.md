@@ -4,11 +4,11 @@
 
 [My Certificate | freeCodeCamp.org | Responsive Web Design](https://freecodecamp.org/certification/fcc9db00e89-8b28-4e11-aab4-cc0e2d6b81b6/responsive-web-design)
 
-1. [Build a Survey Form](./rwd0105/README.md) (rwd0105)
-1. [Build a Tribute Page](./rwd0205/README.md) (rwd0205)
-1. [Build a Technical Documentation Page](./rwd0304/README.md) (rwd0304)
-1. [Build a Product Landing Page](./rwd0403/README.md) (rwd0403)
-1. [Build a Personal Portfolio Webpage](./rwd0503/README.md) (rwd0503)
+1. [Build a Survey Form](./responsive-web-design/rwd0105/README.md) (rwd0105)
+1. [Build a Tribute Page](./responsive-web-design/rwd0205/README.md) (rwd0205)
+1. [Build a Technical Documentation Page](./responsive-web-design/rwd0304/README.md) (rwd0304)
+1. [Build a Product Landing Page](./responsive-web-design/rwd0403/README.md) (rwd0403)
+1. [Build a Personal Portfolio Webpage](./responsive-web-design/rwd0503/README.md) (rwd0503)
 
 ## [2. JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
